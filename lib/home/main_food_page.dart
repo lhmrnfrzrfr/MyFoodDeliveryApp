@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:myfooddelivery/home/body_food_page.dart';
 import 'package:myfooddelivery/utils/colors.dart';
 import 'package:myfooddelivery/widgets/big_text.dart';
 import 'package:myfooddelivery/widgets/small_text.dart';
@@ -49,6 +50,7 @@ class _MainFoodPageState extends State<MainFoodPage> {
               ),
             ),
           ),
+          FoodPageBody(),
         ],
       ),
     );
