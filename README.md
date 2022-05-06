@@ -1,6 +1,14 @@
 # myfooddelivery
 
-A new Flutter project.
+This is an e-commerce app for food delivery using flutter with backend. 
+
+## Description
+
+This is a shopping app with backend of Laravel and Laravel admin panel using restful api complete CRUD operations. and also used firebase for notification in upcoming updates.
+
+This app would be covers complete shopping cart, placing orders, signup or registration, signin or login, payment.
+
+> this project are currently under development.
 
 ## Getting Started
 
